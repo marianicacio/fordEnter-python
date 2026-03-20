@@ -41,5 +41,28 @@ else:
 5. resto %
 6. expoente **
 
+"""
 
+"""
+
+--- If and Else ---
+
+1. maior >
+2. menor <
+3. atribuição =
+4. diferença ! ou !=
+5. maior igual >=
+6. menor igual <=
+
+if (condição verdade):
+    blobo de código
+else:
+    bloco de código
+
+if (condição verdade):
+    blobo de código
+elif(condição verdade):
+    bloco de código
+else:
+    bloco de código
 """
