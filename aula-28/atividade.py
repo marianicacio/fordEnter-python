@@ -5,7 +5,7 @@ for i in range(30):
     idade = int(input(f"Digite a idade do aluno {i+1}: "))
     altura = int(input(f"Digite a altura do aluno {i+1}: "))
 
-    idades.append(idade)
+    idades.append(idade) #append é usado para armazenar os dados em uma lista 
     idades.append(alturas)
     
     media = sum(alturas) / len(alturas)
