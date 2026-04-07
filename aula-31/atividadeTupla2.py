@@ -6,5 +6,4 @@ palavras = ('hello world', 'maria', 'murillo', 'amor')
 num = numeros[2]
 pal = palavras[3]
 
-print(num)
-print(pal)
+print(f"Quero dar {num} beijinhos no meu {pal}")
